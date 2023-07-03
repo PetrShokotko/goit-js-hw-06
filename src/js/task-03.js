@@ -21,3 +21,5 @@ gallery.insertAdjacentHTML("beforeend", markup);
 
 gallery.style.border = "2px solid black";
 gallery.style.background = "tomato";
+gallery.style.listStyleType = "none";
+
